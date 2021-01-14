@@ -1,0 +1,27 @@
+@media (min-width: 576px) { 
+  .navStyles {
+    height: 50px;
+    border-bottom: 1px solid black
+  }
+
+  .iconStyles {
+    height: 90%;
+    margin-left: 10px;
+  }
+ }
+
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) { 
+  .navStyles {
+    height: 50px;
+    border-bottom: 1px solid black
+  }
+
+  .iconStyles {
+    height: 90%;
+    margin-left: 10px;
+  }
+}
