@@ -1,5 +1,12 @@
 @media (min-width: 576px) { 
-  
+  .bodyContainer {
+    display: flex;
+    justify-content: center;
+  }
+  .bodyStyles {
+    width: 70%;
+    height: 100%;
+  }
  }
 
 @media (min-width: 768px) {  }

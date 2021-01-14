@@ -1,7 +1,7 @@
 @media (min-width: 576px) { 
   .navStyles {
     height: 50px;
-    border-bottom: 1px solid black
+    border-bottom: 1px solid #d3d3d3
   }
 
   .iconStyles {
@@ -17,7 +17,7 @@
 @media (min-width: 1200px) { 
   .navStyles {
     height: 50px;
-    border-bottom: 1px solid black
+    border-bottom: 1px solid #d3d3d3
   }
 
   .iconStyles {
